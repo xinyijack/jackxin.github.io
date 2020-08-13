@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>浪子傑</title>
+        <link>https://github.com/xinyijack/jackxin.github.io.git/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.74.3 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>cryingjian@gmail.com (Jack_xin)</managingEditor>
+        
+        
+            <webMaster>cryingjian@gmail.com (Jack_xin)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Thu, 13 Aug 2020 20:25:03 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://github.com/xinyijack/jackxin.github.io.git/rss.xml" />
+        
+        
+    </channel>
+</rss>
